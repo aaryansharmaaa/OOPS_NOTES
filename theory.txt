@@ -1,0 +1,31 @@
+What is object oriented programing??
+
+It a type of programing technique where thing are revolve around OBJECTS when ever we are writing a program...
+
+Obejects are the real world entity that represent the state or the behaviour of the class...
+
+What is class??
+
+Class is a user define data type that act as a blueprint for creating objects...
+
+What are access modifiers??
+
+Access modifiers are basically the techniqye that divide the calss into three different categories 
+
+PUBLIC
+PRIVATE
+PROTECTED
+
+that allow the programer to create the scope of the data means that if programer wnat property of class can only be used inside the class
+or outside the class.....
+
+WHEN EVER A OBJECT IS CREATED A CONSTRUCTOR IS CALL....!!!!!
+
+
+INHERITANCE AMBIGUITY...
+
+when we create a class A and another class B, now we are creating another class c multiple inheritance is going here and class and class b
+have smae function so when we access then througn class c there is a  ambiguity there is a methid to resolve It
+
+obj1.A::func()--->if we have to access function from class A..
+obj1.b::func()-->If we have to access function from class B..
